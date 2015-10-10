@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+echo "<pre>\n All arrary in file\n"; print_r(get_defined_vars()); exit("\n exited here in " . __FILE__ . " : " . __LINE__ . "</pre>");
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ppa</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
