@@ -2,7 +2,7 @@ syntax on
 cmap w!! w !sudo tee % >/dev/null
 set t_Co=256
 color mango
-:cd /home/sandip/brandnode
+" :cd to your main project
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
